@@ -1,5 +1,5 @@
 
-### Hi there, I'm Glicozs  👋
+### Hi there, I'm Glicoz  👋
 
 I'm a **Cybersecurity Engineering Student** at **EFREI Paris** and a competitive **CTF Player**.
 I specialize in breaking systems to secure them, with a focus on **Active Directory**, **Reverse Engineering**, and **Network Security**.
